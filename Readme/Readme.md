@@ -66,3 +66,36 @@ Follow the steps below to run **Eventify** on an emulator or physical Android de
 ```bash
 git clone https://github.com/your-username/eventify.git
 cd eventify
+
+### 📦 Step 2: Install dependencies
+
+```bash
+flutter pub get
+
+### 📱 Step 3: Run the app
+- Open Android Studio or VSCode
+- Make sure an Android emulator is running or a physical device is connected
+- Use terminal or IDE to run:
+
+```bash
+  flutter run
+
+  <p>The app will now compile and launch on the selected device.</p>
+
+## 👨‍💻 Contributors
+
+<p align="center">
+  <img src="assets/readme/anamika.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
+  <img src="assets/readme/komal.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
+  <img src="assets/readme/shubham.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
+  <img src="assets/readme/vaishnavi.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
+</p>
+
+<p align="center">
+  <b>Anamika Bhavsar</b> &nbsp; | &nbsp;
+  <b>Komal Deshmukh</b> &nbsp; | &nbsp;
+  <b>Shubham Dukare</b> &nbsp; | &nbsp;
+  <b>Vaishnavi Bhalerao</b>
+</p>
+
+
