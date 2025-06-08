@@ -59,7 +59,7 @@ The application enables **role-based access** for three types of users: **Admin*
 Follow the steps below to run **Eventify** on an emulator or physical Android device.
 
 ### Step 1: Clone the repository  
-git clone https://github.com/your-username/eventify.git  
+git clone https://github.com/shubhamdukare123/event_app  
 cd eventify  
 
 ### Step 2: Install dependencies  
@@ -79,7 +79,7 @@ The app will now compile and launch on the selected device.
 
 <p align="center">
   <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Anamika.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 25px;">
-  <img src="assets/readme/komal.png" width="120" height="120" style="border-radius: 50%; margin: 25px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Komal.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 25px;">
   <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Shubham.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 25px;">
   <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Vaishnavi.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 25px;">
 </p>
