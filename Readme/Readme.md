@@ -28,8 +28,6 @@ The application enables **role-based access** for three types of users: **Admin*
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Flutter.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
   <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/dart.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
@@ -41,7 +39,6 @@ The application enables **role-based access** for three types of users: **Admin*
   <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Android%20Studio.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
   <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Jira.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
 </p>
-
 
 ### 🧩 Technologies Used
 
@@ -61,41 +58,35 @@ The application enables **role-based access** for three types of users: **Admin*
 
 Follow the steps below to run **Eventify** on an emulator or physical Android device.
 
-### 📥 Step 1: Clone the repository
+### Step 1: Clone the repository  
+git clone https://github.com/your-username/eventify.git  
+cd eventify  
 
-```bash
-git clone https://github.com/your-username/eventify.git
-cd eventify
+### Step 2: Install dependencies  
+flutter pub get  
 
-### 📦 Step 2: Install dependencies
+### Step 3: Run the app  
+- Open Android Studio or VSCode  
+- Make sure an Android emulator is running or a physical device is connected  
+- Run the following:  
+flutter run  
 
-```bash
-flutter pub get
+The app will now compile and launch on the selected device.
 
-### 📱 Step 3: Run the app
-- Open Android Studio or VSCode
-- Make sure an Android emulator is running or a physical device is connected
-- Use terminal or IDE to run:
-
-```bash
-  flutter run
-
-  <p>The app will now compile and launch on the selected device.</p>
+---
 
 ## 👨‍💻 Contributors
 
 <p align="center">
-  <img src="assets/readme/anamika.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Anamika.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 15px;">
   <img src="assets/readme/komal.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
-  <img src="assets/readme/shubham.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
-  <img src="assets/readme/vaishnavi.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Shubham.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 15px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Vaishnavi.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 15px;">
 </p>
 
 <p align="center">
-  <b>Anamika Bhavsar</b> &nbsp; | &nbsp;
-  <b>Komal Deshmukh</b> &nbsp; | &nbsp;
-  <b>Shubham Dukare</b> &nbsp; | &nbsp;
+  <b>Anamika Bhavsar</b>
+  <b>Komal Deshmukh</b>
+  <b>Shubham Dukare</b>
   <b>Vaishnavi Bhalerao</b>
 </p>
-
-
