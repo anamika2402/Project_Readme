@@ -29,16 +29,15 @@ The application enables **role-based access** for three types of users: **Admin*
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="C:/Users/HP/Desktop/Readme/Flutter.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/dart.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/nodejs.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/python.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/javascript.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/ml.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/github.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/vscode.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/androidstudio.png" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/readme/jira.png" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Flutter.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/dart.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/nodejs.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/python.jpeg?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/javascript.jpeg?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Github.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/VSCode.jpeg?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Android%20Studio.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Jira.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
 </p>
 
 ### 🧩 Technologies Used
