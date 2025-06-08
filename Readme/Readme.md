@@ -78,10 +78,10 @@ The app will now compile and launch on the selected device.
 ## 👨‍💻 Contributors
 
 <p align="center">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Anamika.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 15px;">
-  <img src="assets/readme/komal.png" width="120" height="120" style="border-radius: 50%; margin: 15px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Shubham.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 15px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Vaishnavi.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 15px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Anamika.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 25px;">
+  <img src="assets/readme/komal.png" width="120" height="120" style="border-radius: 50%; margin: 25px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Shubham.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 25px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Vaishnavi.jpg?raw=true" width="120" height="120" style="border-radius: 50%; margin: 25px;">
 </p>
 
 <p align="center">
