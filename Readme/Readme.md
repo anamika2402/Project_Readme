@@ -28,17 +28,20 @@ The application enables **role-based access** for three types of users: **Admin*
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Flutter.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/dart.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/nodejs.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/python.jpeg?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/javascript.jpeg?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Github.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/VSCode.jpeg?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Android%20Studio.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
-  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Jira.png?raw=true" width="90" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Flutter.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/dart.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/nodejs.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/python.jpeg?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/javascript.jpeg?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Github.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/VSCode.jpeg?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Android%20Studio.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img src="https://github.com/anamika2402/Project_Readme/blob/main/Readme/Jira.png?raw=true" height="90" width="90" style="border-radius: 50%; margin: 10px; object-fit: cover;">
 </p>
+
 
 ### 🧩 Technologies Used
 
